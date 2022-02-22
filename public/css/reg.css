@@ -1,0 +1,101 @@
+body{
+    font-family: 'Spartan', sans-serif;
+}
+
+nav{
+    background-color: rgba(241, 241, 241, 1);
+}
+
+form{
+    position: absolute;
+    width: 600px;
+    height: 1150px;
+    margin-top: -30px;
+    margin-bottom: 30px;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, 10%);
+    background: #F1F1F1;
+    border-radius: 12px;
+}
+
+h2{
+    margin-top: 50px;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 27px;
+    /* identical to box height, or 56% */
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    color: #000000;
+}
+
+p{
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 27px;
+    text-align: center;
+    margin-bottom: 50px;
+    color: #9D9CB5;
+}
+
+input[type=text]{
+    background: #FFFFFF;
+    border-radius: 12px;
+    padding: 12px 20px;
+}
+
+input[type=email]{
+    background: #FFFFFF;
+    border-radius: 12px;
+    padding: 12px 20px;
+}
+
+input[type=password] {
+    background: #FFFFFF;
+    border-radius: 12px;
+    padding: 12px 20px;
+}
+
+button {
+    float: right;
+    margin-right: 110px;
+    background-color: rgba(54, 163, 36, 1);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    border-radius: 12px;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    /* identical to box height, or 56% */
+    letter-spacing: 0.04em;
+}
+
+.row{
+    margin-left: 50px;
+}
+
+body{
+    background-image: url(/img/login-page.png);
+    background-size: 1100px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position-y: -100px;
+}
+
+.input-group .input-group-text{
+    border-radius: 12px;
+    margin-right: 100px;
+}
+

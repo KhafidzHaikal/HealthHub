@@ -1,0 +1,39 @@
+
+header{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px ;
+}
+
+.sidebar{
+  position: fixed;
+  left: 0;
+  width: 300px;
+  height: 100%;
+  background-color: rgba(241, 241, 241, 1);
+}
+
+.sidebar ul li a{
+  display: block;
+  text-decoration: none;
+  color: black;
+  margin-top: 30px;
+  height: 100%;
+  width: 100%;
+  font-size: 18px;
+
+}
+.sidebar ul li a:hover{
+  box-sizing: border-box;
+  width: 220px;
+  height: 30px;
+
+  font-weight: 300px;
+  color: white;
+  background: #36A324;
+  border-radius: 50px;
+
+}
+.sidebar ul li{
+  margin-top: 10px;
+}

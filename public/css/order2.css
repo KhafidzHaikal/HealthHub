@@ -1,0 +1,87 @@
+#payment-text {
+  margin-bottom: 74px;
+}
+
+#payment-text h2 {
+  color: #36A324;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.section-choose .part-delivery {
+  margin-bottom: 175px;
+}
+
+.section-choose button {
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.section-choose .dropbtn {
+  background-color: #e0e0e0;
+  border-radius: 12px;
+  width: 500px;
+  color: #0a0a0a;
+  -webkit-box-shadow: 3px 4px #d4d4d4;
+          box-shadow: 3px 4px #d4d4d4;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.section-choose .dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.section-choose .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 500px;
+  -webkit-box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.section-choose .dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.section-choose .dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
+
+.section-choose .dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.section-choose .dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+.section-price {
+  margin-top: 100px;
+}
+
+.section-price h3 {
+  font-weight: bold;
+  padding-top: 8px;
+}
+
+.section-price h4 {
+  color: #36A324;
+  padding-top: 8px;
+}
+
+.section-price button {
+  width: 110px;
+  font-weight: 500;
+  font-size: 20px;
+  border-radius: 20px;
+}
+/*# sourceMappingURL=order2.css.map */

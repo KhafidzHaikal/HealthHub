@@ -1,0 +1,12 @@
+.nav-link{
+    color: rgba(54, 163, 36, 1);
+    margin-right: 30px;
+}
+
+.nav-link:hover{
+    color: rgba(236, 133, 12, 1);
+}
+
+.nav-link:active{
+    color: rgba(236, 133, 12, 1);
+}   

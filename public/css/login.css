@@ -1,0 +1,108 @@
+body{
+    font-family: 'Spartan', sans-serif;
+}
+
+nav{
+    background-color: rgba(241, 241, 241, 1);
+}
+
+form{
+    position: absolute;
+    width: 579px;
+    height: 600px;
+    margin: auto;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, 10%);
+
+
+    background: #F1F1F1;
+    border-radius: 12px;
+
+}
+
+h2{
+    margin-top: 50px;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 27px;
+    /* identical to box height, or 56% */
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    color: #000000;
+}
+
+p{
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 27px;
+    text-align: center;
+    margin-bottom: 50px;
+    color: #9D9CB5;
+
+
+}
+#registration{
+    margin-top: -50px;
+    text-align: left;
+    margin-left: 115px;
+}
+
+#forgot{
+    margin-top: -75px;
+    margin-right: 115px;
+    text-align: right;
+}
+
+input[type=email] {
+    background: #FFFFFF;
+    border-radius: 12px;
+    padding: 12px 20px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+input[type=password] {
+    background: #FFFFFF;
+    border-radius: 12px;
+    padding: 12px 20px;
+    text-align: center;
+    margin-left: 100px;
+}
+
+button {
+    float: right;
+    margin-right: 100px;
+    background-color: rgba(54, 163, 36, 1);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    border-radius: 12px;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 0.04em;
+}
+
+body{
+    background-image: url(/img/login-page.png);
+    background-size: 1100px;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position-y: -100px;
+}
+
+.alert{
+    margin-left: 100px;
+    text-align: center;
+}

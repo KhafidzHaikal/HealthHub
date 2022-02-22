@@ -1,0 +1,53 @@
+#order-text {
+  margin-bottom: 74px;
+}
+
+#order-text span {
+  font-size: 30px;
+  margin-bottom: -20px;
+  color: black;
+}
+
+#order-text h2 {
+  color: #36A324;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+#section-info .text-head-obat .loc-obat p {
+  font-weight: 500;
+}
+
+#section-info .text-head-obat .user-obat p {
+  font-weight: 300;
+}
+
+#section-info .text-head-obat .pos-obat p {
+  font-weight: 600;
+}
+
+.section-price {
+  border-top: 3px solid #9D9CB5;
+  border-bottom: 3px solid #9D9CB5;
+}
+
+.section-price .partpay {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.section-price .makeb {
+  margin-top: 200px;
+}
+
+.section-bottomprice {
+  margin-top: 30px;
+}
+
+.section-bottomprice button {
+  width: 110px;
+  font-weight: 500;
+  font-size: 20px;
+  border-radius: 20px;
+}
+/*# sourceMappingURL=order1.css.map */

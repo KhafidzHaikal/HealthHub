@@ -1,0 +1,189 @@
+/*********************************************** HOME CSS ***********************************************/
+h1{
+    color: rgba(21, 146, 0, 1);
+    font-family: 'Spartan', sans-serif;
+    font-weight: 200;
+    margin-top: 100px;
+    margin-left: 10px;
+    width: 677px;
+    height: 205px;
+    left: 132px;
+    top: 296px;
+    line-height: 104px;
+    font-size: 84px;
+    letter-spacing: 0.04cm;
+}
+#we{
+
+    width: 550px;
+    height: 66px;
+    left: 132px;
+    top: 501px;
+    margin-left: 10px;
+    margin-bottom: -35px;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    /* or 133% */
+    letter-spacing: 0.04em;
+
+    color: #0F6800;
+
+
+}
+#anywhere{
+    width: 550px;
+    height: 66px;
+    left: 132px;
+    top: 410px;
+    margin-left: 10px;
+    margin-bottom: -35px;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    /* or 133% */
+    letter-spacing: 0.04em;
+
+    color: #0F6800;
+}
+#anytime{
+    width: 550px;
+    height: 66px;
+    left: 132px;
+    top: 440px;
+    margin-left: 10px;
+    margin-bottom: -35px;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    /* or 133% */
+    letter-spacing: 0.04em;
+
+    color: #0F6800;
+}
+#easier{
+    width: 550px;
+    height: 66px;
+    left: 132px;
+    top: 470px;
+    margin-left: 10px;
+    margin-bottom: -35px;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    /* or 133% */
+    letter-spacing: 0.04em;
+
+    color: #0F6800;
+}
+#button1{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    font-family: Spartan;
+    border-radius: 12px;
+
+}
+#app{
+    width: 550px;
+    height: 66px;
+    left: 132px;
+    top: 590px;
+    margin-left: 10px;
+    font-family: Spartan;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    /* or 133% */
+    letter-spacing: 0.04em;
+
+    color: #0F6800;
+}
+#button2{
+    margin-top: -25px;
+    margin-left: 10px;
+    font-family: Spartan;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+#home{
+    background-image: url(/img/foto-home.png);
+    background-size: 1100px;
+    background-position: right;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+/***********************************************************************************************************/
+
+
+/*********************************************** DIAGNOSES CSS *********************************************/
+#diagnoses{
+    font-size: 45px;
+}
+#diagnosesimage{
+    background-image: url(/img/diagnoses.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position-y: -100px;
+}
+/***********************************************************************************************************/
+
+
+/*********************************************** PROFILE CSS ***********************************************/
+#emptyphoto{
+    height: 150px;
+    width: 150%;
+    margin-top: 500px;
+    margin-left: -450px ;
+    object-fit: contain;
+}
+#form{
+    display: inline-block;
+    transform: translate(30%, 0%);
+}
+#form button{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+}
+#formprofile{
+    margin-top: -150px;
+}
+#idlist{
+    margin-top: -450px;
+    margin-left: 500px;
+}
+#idisi{
+    margin-top: -246.5px;
+    margin-left: 700px;
+}
+#viewprofile{
+    margin-top: 75px;
+}
+.input-group .input-group-text{
+    margin-right: 120px;
+}
+/* #profileimage{
+    background-image: url(/img/foto-home.png);
+    background-size: 1100px;
+    background-position: right;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+} */
+
+/***********************************************************************************************************/
+
+
+/*********************************************** HISTORY CSS ***********************************************/

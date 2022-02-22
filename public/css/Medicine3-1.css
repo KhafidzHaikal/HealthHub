@@ -1,0 +1,68 @@
+#order-text {
+  padding-top: 30px;
+}
+
+#order-text span {
+  font-size: 20px;
+  margin-bottom: -20px;
+  color: black;
+}
+
+#order-text h1 {
+  color: #36A324;
+  font-weight: bold;
+  font-size: 36px;
+  letter-spacing: 1px;
+}
+
+main {
+  background-image: url("../img/Group 66.png");
+  background-size: cover;
+  height: auto;
+}
+
+#section-info .text-head-obat .loc-your p {
+  font-weight: 500;
+}
+
+#section-info .text-head-obat .pos-obat p {
+  font-weight: 600;
+}
+
+#section-info .text-head-obat .apotek h3 {
+  background-color: #36A324;
+  width: 240px;
+  text-align: center;
+  height: 46px;
+  vertical-align: center;
+  border-radius: 12px;
+  color: #fff;
+}
+
+.section-project .project-items {
+  border: 3px black;
+  border-radius: 12px;
+}
+
+.section-project .project-items .project-item {
+  text-decoration: none;
+}
+
+.section-project .project-items .project-item .head-item-part p {
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 24px;
+  text-align: center;
+  color: black;
+}
+
+.section-project .project-items .project-item .text-part-item {
+  padding-top: 40px;
+  color: black;
+}
+
+.section-project .project-items .project-item .text-part-item span {
+  font-weight: 600;
+  font-size: 28px;
+}
+/*# sourceMappingURL=Medicine3-1.css.map */
